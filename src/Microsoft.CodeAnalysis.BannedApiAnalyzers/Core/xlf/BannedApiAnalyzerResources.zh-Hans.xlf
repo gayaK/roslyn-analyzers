@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="SymbolIsBannedMessage">
         <source>The symbol '{0}' is banned in this project{1}</source>
-        <target state="translated">此项目{1}中禁用符号“{0}”</target>
+        <target state="translated">此项目中禁用符号“{0}”{1}</target>
         <note />
       </trans-unit>
       <trans-unit id="SymbolIsBannedTitle">
